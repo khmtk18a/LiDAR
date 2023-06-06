@@ -1,2 +1,3 @@
-realworld.las
+*.las
 venv
+*.csv
